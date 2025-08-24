@@ -1,11 +1,5 @@
 # 🚀 SmartPrice Monitor
 
-[![Tests](https://github.com/yourusername/smartprice-monitor/workflows/Tests/badge.svg)](https://github.com/yourusername/smartprice-monitor/actions)
-[![Coverage](https://codecov.io/gh/yourusername/smartprice-monitor/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/smartprice-monitor)
-[![Code Quality](https://api.codeclimate.com/v1/badges/abc123/maintainability)](https://codeclimate.com/github/yourusername/smartprice-monitor/maintainability)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-
 > **Intelligent Price Monitoring System** - Track product prices across multiple e-commerce platforms with real-time alerts and ML-powered trend analysis.
 
 ## ✨ Key Features
